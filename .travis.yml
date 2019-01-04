@@ -11,3 +11,7 @@ matrix:
 script:
   - cargo build --verbose --all
   - cargo test --verbose --all
+os:
+  - windows
+  - linux
+  - osx
