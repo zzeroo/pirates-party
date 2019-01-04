@@ -1,6 +1,8 @@
 Tag Team crate to work with git on github.com
 
-[![Build Status](https://travis-ci.org/zzeroo/pirates-party.svg?branch=master)](https://travis-ci.org/zzeroo/pirates-party)
+| [![Build Status](https://travis-ci.org/zzeroo/pirates-party.svg?branch=master)](https://travis-ci.org/zzeroo/pirates-party)
+| [![Build status](https://ci.appveyor.com/api/projects/status/jo28iyh8xd46t2fb/branch/master?svg=true)](https://ci.appveyor.com/project/zzeroo/pirates-party/branch/master)
+
 
 
 # Initalisierung
