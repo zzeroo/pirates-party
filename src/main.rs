@@ -1,3 +1,5 @@
+use pirates_party::world::World;
+
 fn main() {
-    println!("Hello Pirates of the world wide web!");
+    World::init();
 }
